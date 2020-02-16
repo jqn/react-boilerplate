@@ -4,7 +4,7 @@ Simple React.js boilerplate
 
 ## Installation
 
-- `$ git clone`
+- `$ git clone https://github.com/jqn/react-boilerplate.git`
 - `$ cd react-boilerplate`
 - `$ npm install`
 - `$ npm run watch`
