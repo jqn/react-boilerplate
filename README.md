@@ -1,6 +1,6 @@
 # React Boilerplate
 
-Simple React.js boilerplate
+Simple React.js boilerplate with Webpack 4 and Babel 7
 
 ## Installation
 
