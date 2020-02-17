@@ -1,6 +1,3 @@
-.panelDefault {
-  border-color: #ddd;
-}
-.panelBody {
-  padding: 15px;
+.container {
+  background-color: red;
 }
