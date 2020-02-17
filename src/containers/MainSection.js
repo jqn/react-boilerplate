@@ -1,8 +1,8 @@
 import React from "react";
-import Header from "./Header";
+import style from "./styles/MainSection.css";
 
 const MainSection = () => (
-  <section>
+  <section className={style.panelDefault}>
     <p>Simple base boilerplate</p>
   </section>
 );
