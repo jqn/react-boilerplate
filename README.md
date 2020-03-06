@@ -19,3 +19,5 @@ Simple React.js boilerplate with Webpack 4 and Babel 7
 - develop (general new features - working branch)
 - barebones (base react application with basic features - css loader)
 - feature/es6-support (base react application with es6 support features - arrow functions, spread operator)
+- feature/simple-homepage - simple material-ui themed homepage
+- feature/full-stack - PERN stack
